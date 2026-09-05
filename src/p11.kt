@@ -17,21 +17,20 @@ fun main(){
     s=-2
     var m: Byte
     m=127
-    var j: Int
-    j=45
 
 
 
-    println("i="+i)
-    println("f="+f)
-    println("c="+c)
-    println("str="+str)
-    println("d="+d)
-    println("b="+b)
-    println("l="+l)
-    println("s="+s)
-    println("m="+m)
-    println("j=$j")
+
+    println("Integer Value="+i)
+    println("Float Value="+f)
+    println("Character Value="+c)
+    println("String Value="+str)
+    println("Boolean Value="+d)
+    println("Double Value="+b)
+    println("Long Value="+l)
+    println("Short Value="+s)
+    println("Byte Value="+m)
+
 
 
 
