@@ -63,8 +63,7 @@ Implement functions to get car information, original price, current price, and d
 Explain operator overloading.    
 Implement matrix addition, subtraction, and multiplication using a `Matrix` class.    
 Override `toString()` for customized matrix output.    
-![Matrix Operations](screenshots/p1_11a.png)    
-![Matrix Output](screenshots/p1_11b.png)  
+![Matrix Operations](screenshots/p1_11.png)     
   
 ---  
   
